@@ -1,0 +1,1 @@
+from app.services.appointment_service import has_overlapping_appointment
